@@ -1,0 +1,437 @@
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+   <teiHeader>
+      <fileDesc>
+         <titleStmt>
+            <title>The church-man and the Quaker dialoguing: with a reply to an answer to a late pamphlet, called, A sober dialogue between a Scotch Presbyterian, a London church-man, and a real Quaker</title>
+         </titleStmt>
+         <editionStmt>
+            <edition>
+               <date>1699</date>
+            </edition>
+         </editionStmt>
+         <extent>Approx. 47 KB of XML-encoded text transcribed from 16 1-bit group-IV TIFF page images.</extent>
+         <publicationStmt>
+            <publisher>Text Creation Partnership,</publisher>
+            <pubPlace>Ann Arbor, MI ; Oxford (UK) :</pubPlace>
+            <date when="2013-12">2013-12 (EEBO-TCP Phase 2).</date>
+            <idno type="DLPS">A79570</idno>
+            <idno type="STC">Wing C3997</idno>
+            <idno type="STC">ESTC R231838</idno>
+            <idno type="EEBO-CITATION">99897624</idno>
+            <idno type="PROQUEST">99897624</idno>
+            <idno type="VID">137249</idno>
+            <availability>
+               <p>To the extent possible under law, the Text Creation Partnership has waived all copyright and related or neighboring rights to this keyboarded and encoded edition of the work described above, according to the terms of the CC0 1.0 Public Domain Dedication (http://creativecommons.org/publicdomain/zero/1.0/). This waiver does not extend to any page images or other supplementary files associated with this work, which may be protected by copyright or other license restrictions. Please go to https://www.textcreationpartnership.org/ for more information about the project.</p>
+            </availability>
+         </publicationStmt>
+         <seriesStmt>
+            <title>Early English books online.</title>
+         </seriesStmt>
+         <notesStmt>
+            <note>(EEBO-TCP ; phase 2, no. A79570)</note>
+            <note>Transcribed from: (Early English Books Online ; image set 137249)</note>
+            <note>Images scanned from microfilm: (Early English books, 1641-1700 ; 2509:15)</note>
+         </notesStmt>
+         <sourceDesc>
+            <biblFull>
+               <titleStmt>
+                  <title>The church-man and the Quaker dialoguing: with a reply to an answer to a late pamphlet, called, A sober dialogue between a Scotch Presbyterian, a London church-man, and a real Quaker</title>
+               </titleStmt>
+               <extent>30 p.   </extent>
+               <publicationStmt>
+                  <publisher>printed, and sold by the booksellers of London and Westminster,</publisher>
+                  <pubPlace>London :</pubPlace>
+                  <date>1699.</date>
+               </publicationStmt>
+               <notesStmt>
+                  <note>In part a reply to: A sober dialogue between a Scotch Presbyterian, a London church-man, and a real Quaker.</note>
+                  <note>Reproduction of original in the John Carter Brown Library.</note>
+               </notesStmt>
+            </biblFull>
+         </sourceDesc>
+      </fileDesc>
+      <encodingDesc>
+         <projectDesc>
+            <p>Created by converting TCP files to TEI P5 using tcp2tei.xsl,
+      TEI @ Oxford.
+      </p>
+         </projectDesc>
+         <editorialDecl>
+            <p>EEBO-TCP is a partnership between the Universities of Michigan and Oxford and the publisher ProQuest to create accurately transcribed and encoded texts based on the image sets published by ProQuest via their Early English Books Online (EEBO) database (http://eebo.chadwyck.com). The general aim of EEBO-TCP is to encode one copy (usually the first edition) of every monographic English-language title published between 1473 and 1700 available in EEBO.</p>
+            <p>EEBO-TCP aimed to produce large quantities of textual data within the usual project restraints of time and funding, and therefore chose to create diplomatic transcriptions (as opposed to critical editions) with light-touch, mainly structural encoding based on the Text Encoding Initiative (http://www.tei-c.org).</p>
+            <p>The EEBO-TCP project was divided into two phases. The 25,368 texts created during Phase 1 of the project (2000-2009), initially available only to institutions that contributed to their creation, were released into the public domain on 1 January 2015. The approximately 40,000 texts produced during Phase 2 (2009- ), of which 34,963 had been released as of 2020, originally similarly restricted, were similarly freed from all restrictions on 1 August 2020. As of that date anyone is free to take and use these texts for any purpose (modify them, annotate them, distribute them, etc.). But we do respectfully request that due credit and attribution be given to their original source.</p>
+            <p>Users should be aware of the process of creating the TCP texts, and therefore of any assumptions that can be made about the data.</p>
+            <p>Text selection was based on the New Cambridge Bibliography of English Literature (NCBEL). If an author (or for an anonymous work, the title) appears in NCBEL, then their works are eligible for inclusion. Selection was intended to range over a wide variety of subject areas, to reflect the true nature of the print record of the period. In general, first editions of a works in English were prioritized, although there are a number of works in other languages, notably Latin and Welsh, included and sometimes a second or later edition of a work was chosen if there was a compelling reason to do so.</p>
+            <p>Image sets were sent to external keying companies for transcription and basic encoding. Quality assurance was then carried out by editorial teams in Oxford and Michigan. 5% (or 5 pages, whichever is the greater) of each text was proofread for accuracy and those which did not meet QA standards were returned to the keyers to be redone. After proofreading, the encoding was enhanced and/or corrected and characters marked as illegible were corrected where possible up to a limit of 100 instances per text. Any remaining illegibles were encoded as &lt;gap&gt;s. Understanding these processes should make clear that, while the overall quality of TCP data is very good, some errors will remain and some readable characters will be marked as illegible. Users should bear in mind that in all likelihood such instances will never have been looked at by a TCP editor.</p>
+            <p>The texts were encoded and linked to page images in accordance with level 4 of the TEI in Libraries guidelines.</p>
+            <p>Copies of the texts have been issued variously as SGML (TCP schema; ASCII text with mnemonic sdata character entities); displayable XML (TCP schema; characters represented either as UTF-8 Unicode or text strings within braces); or lossless XML (TEI P5, characters represented either as UTF-8 Unicode or TEI g elements).</p>
+            <p>Keying and markup guidelines are available at the <ref target="http://www.textcreationpartnership.org/docs/.">Text Creation Partnership web site</ref>.</p>
+         </editorialDecl>
+         <listPrefixDef>
+            <prefixDef ident="tcp"
+                       matchPattern="([0-9\-]+):([0-9IVX]+)"
+                       replacementPattern="http://eebo.chadwyck.com/downloadtiff?vid=$1&amp;page=$2"/>
+            <prefixDef ident="char"
+                       matchPattern="(.+)"
+                       replacementPattern="https://raw.githubusercontent.com/textcreationpartnership/Texts/master/tcpchars.xml#$1"/>
+         </listPrefixDef>
+      </encodingDesc>
+      <profileDesc>
+         <langUsage>
+            <language ident="eng">eng</language>
+         </langUsage>
+         <textClass>
+            <keywords scheme="http://authorities.loc.gov/">
+               <term>Church of England --  Controversial literature --  Early works to 1800.</term>
+               <term>Sober dialogue between a Scotch Presbyterian, a London church-man, and a real Quaker --  Early works to 1800.</term>
+               <term>Society of Friends --  Apologetic works --  Early works to 1800.</term>
+               <term>Dialogues, English --  Early works to 1800.</term>
+               <term>Quakers --  Early works to 1800.</term>
+            </keywords>
+         </textClass>
+      </profileDesc>
+      <revisionDesc>
+         <change>
+            <date>2012-06</date>
+            <label>TCP</label>Assigned for keying and markup</change>
+         <change>
+            <date>2012-06</date>
+            <label>SPi Global</label>Keyed and coded from ProQuest page images</change>
+         <change>
+            <date>2012-08</date>
+            <label>Colm MacCrossan</label>Sampled and proofread</change>
+         <change>
+            <date>2012-08</date>
+            <label>Colm MacCrossan</label>Text and markup reviewed and edited</change>
+         <change>
+            <date>2013-02</date>
+            <label>pfs</label>Batch review (QC) and XML conversion</change>
+      </revisionDesc>
+   </teiHeader>
+   <text xml:lang="eng">
+      <front>
+         <div type="title_page">
+            <pb facs="tcp:137249:1" rendition="simple:additions"/>
+            <pb facs="tcp:137249:1" rendition="simple:additions"/>
+            <p>THE <hi>Church-Man</hi> AND THE QUAKER Dialoguing: WITH A REPLY TO AN Anſwer to a late Pamphlet, CALLED, <hi>A Sober Dialogue between a</hi> Scotch Presbyterian, <hi>a</hi> London Church-Man, <hi>and a Real</hi> Quaker.</p>
+            <q>
+               <bibl>
+                  <hi>Pſalm XXXVII.</hi>
+               </bibl>
+               <p n="12">
+                  <hi>12.</hi> The Wicked plotteth againſt the Juſt, and gnaſheth upon him with his Teeth.</p>
+               <p n="13">
+                  <hi>13.</hi> The Lord ſhall laugh at him, for he ſeeth that his day is coming.</p>
+            </q>
+            <p>
+               <hi>LONDON</hi> Printed, and Sold by the Book<g ref="char:EOLhyphen"/>ſellers of <hi>London</hi> and <hi>Weſtminſter,</hi> 1699.</p>
+         </div>
+      </front>
+      <body>
+         <div type="dialogue">
+            <pb facs="tcp:137249:2"/>
+            <pb n="3" facs="tcp:137249:2"/>
+            <head>THE <hi>Church-Man</hi> AND THE QUAKER Dialoguing.</head>
+            <sp>
+               <speaker>Church<g ref="char:EOLhyphen"/>man.</speaker>
+               <p>SO old Friend, I perceive you ſtill keep among the <hi>Quakers.</hi>
+               </p>
+            </sp>
+            <sp>
+               <speaker>Quaker.</speaker>
+               <p>Yea, for I find no cauſe to leave them.</p>
+            </sp>
+            <sp>
+               <speaker>Ch.</speaker>
+               <p>That's ſtrange, if what I hear ſince I came to Town, be true.</p>
+            </sp>
+            <sp>
+               <speaker>Qu.</speaker>
+               <p>What haſt thou heard?</p>
+            </sp>
+            <sp>
+               <speaker>Ch.</speaker>
+               <p>I hear you are Charged with <hi>Blaſphemy againſt God, Chriſt, and the Holy Scriptures;</hi> and with <hi>great Contempt of Civil Magiſtracy, and the Ordinances which Jeſus Chriſt Inſtituted,</hi> viz. <hi>Baptiſm by Water, and the Lord's Supper with Bread and Wine. And the Light within, as taught by you, leaves you with<g ref="char:EOLhyphen"/>out any certain Rule, and expoſes you to the afore<g ref="char:EOLhyphen"/>mentioned, and many other Blaſphemies.</hi>
+               </p>
+            </sp>
+            <sp>
+               <speaker>Qu.</speaker>
+               <p>It's true, we are ſo Charged by ſome few hot Rectors in <hi>Norfolk:</hi> But if thou wilt Impartially Peruſe the <hi>Defence,</hi> lately Printed, in Reply to
+<pb n="4" facs="tcp:137249:3"/>thoſe <hi>Prieſts,</hi> I doubt not but it may tend to thy Satisfaction, to which I refer thee.</p>
+            </sp>
+            <sp>
+               <speaker>Ch.</speaker>
+               <p>Say you ſo; but what do you think of a late Serious <hi>Dialogue</hi> between a <hi>Church-Man</hi> and a <hi>Quaker?</hi>
+               </p>
+            </sp>
+            <sp>
+               <speaker>Qu.</speaker>
+               <p>I think that ſaying is fulfilled, <hi>Evil Men and Seducers wax worſe and worſe;</hi> and that the old Enemy, to true Peace and Righteouſneſs, is ſtirring up his Agents to diſquiet thoſe that are quiet in the Land, and to raiſe the Spirit of <hi>Perſecution,</hi> in order to their Deſtruction.</p>
+            </sp>
+            <sp>
+               <speaker>Ch.</speaker>
+               <p>
+                  <hi>Perſecution,</hi> I cannot think ſo, for that never did any good, for it is one of the bad Practices of the <hi>Papiſts,</hi> and from <hi>Popery,</hi> and ſuch Slavery I hope we are now deliver'd, and ſhall no more be concern'd in any ſuch work; for I believe that it is neither pleaſing to the <hi>King</hi> nor <hi>Parliament.</hi>
+               </p>
+               <p>But this <hi>Dialogue,</hi> I mention, inſinuates that you ſay, ye are of the ſame Faith with us; and that ye groſly Pervert a Paſſage in our <hi>Common-Prayer.</hi>
+               </p>
+            </sp>
+            <sp>
+               <speaker>Qu.</speaker>
+               <p>If your Faith be in God, and Jeſus Chriſt, and the Holy Spirit, and hath Chriſt for its Au<g ref="char:EOLhyphen"/>thor, we are of the ſame Faith; and if you be<g ref="char:EOLhyphen"/>lieve what you call the <hi>Goſpel,</hi> to be read for <hi>Chriſtmas-day,</hi> and what is written in your <hi>Common-Prayer,</hi> concerning Inſpiration, in what Funda<g ref="char:EOLhyphen"/>mental Doctrine, that is Eſſential to Salvation, do we differ?</p>
+            </sp>
+            <sp>
+               <speaker>Ch.</speaker>
+               <p>But your old Friend <hi>G. K.</hi> in a Poſtſcript to this <hi>Dialogue,</hi> ſaith, <q rend="inline">I am ready to prove Face to Face, before any Judicatory, Eccleſiaſtical or Civil, what is aſſerted in this <hi>Dialogue.</hi>
+                  </q> And therein, as I remember, the <hi>Quaker</hi> is made to
+<pb n="5" facs="tcp:137249:3"/>confeſs, <q rend="inline">That if Chriſt, as without us, and as ſome call him <hi>God-Man,</hi> be held forth to be the neceſſary Object of Faith for Eternal Sal<g ref="char:EOLhyphen"/>vation, it quite overturns our whole Fa<g ref="char:EOLhyphen"/>brick. </q>
+               </p>
+            </sp>
+            <sp>
+               <speaker>Qu.</speaker>
+               <p>If ſo, then <hi>G. K.</hi> is one of them that quite overturns that Fabrick, in ſaying, <q rend="inline">God and Chriſt, as <hi>inwardly</hi> Revealed, is the Object of Faith.</q> And he farther adds, <q rend="inline">That altho' the Preaching of Chriſt without us, in his Birth, Life, Suffering, Death, Reſurrection, Aſcention, Interceſſion, <hi>&amp;c.</hi> is a very conſiderable part of the Doctrine, and of the Goſpel; yet it is but an integral part, ſuch as the Hands and Feet of a Man; without which a Man may ſubſiſt: So may true Religion and Chriſtianity ſubſiſt, with<g ref="char:EOLhyphen"/>out the Hiſtory of Chriſt in the Letter; to wit, in the Myſtery of the Life of Chriſt in the Spirit, with much more to the ſame purpoſe.</q>
+               </p>
+            </sp>
+            <sp>
+               <speaker>Ch.</speaker>
+               <p>But, peradventure, he hath retracted this Doctrine?</p>
+            </sp>
+            <sp>
+               <speaker>Qu.</speaker>
+               <p>And ſo he may any thing that he now writes, by the ſame Rule; for he hath declared in publick Print, <q rend="inline">That if once People were per<g ref="char:EOLhyphen"/>ſuaded and convinced in their Conſciences, that God did teach, and would teach them who wait on him. Then the whole <hi>Clergy,</hi> and their ſo call'd <hi>Theology, Philoſophy, Schools, Colleges,</hi> and their <hi>Church,</hi> the People would turn their Backs upon, and their Colleges would become like the Abacies at this day (which lodged that prophane Rabble of <hi>Papiſts, Monks</hi> and <hi>Friars,</hi> who pretend as great Spirituality as the Nati<g ref="char:EOLhyphen"/>onal Prieſts do) an Habitation for Owls and
+<pb n="6" facs="tcp:137249:4"/>Ravenous Beaſts; and then down ſhould all the proud, lording, lofty Clergy, with their many Degrees of Doctorſhips, Lordſhips, and Maſter<g ref="char:EOLhyphen"/>ſhips, paſs; who being ſtrangers to the true Knowledge, which is Life, Peace, Joy and Sa<g ref="char:EOLhyphen"/>tisfaction, in full Aſſurance to the Soul, are vainly puff'd up in their Fleſhly Minds, by the Form of Knowledge in the Letter, as I was my ſelf, whilſt amongſt them, and thought all Men Idiots.</q>
+               </p>
+            </sp>
+            <sp>
+               <speaker>Ch.</speaker>
+               <p>If this be true, I fear it's now his Condi<g ref="char:EOLhyphen"/>tion too much; and his Exclaiming againſt you now, is but what he once did againſt us, and may again. And indeed there is ſome cauſe to think, he is more Envious than Sincere, and acts little from Conviction; for what he ſeems to blame you for, <hi>viz.</hi> the diſuſe of the Inſtitution of <hi>Chriſt's Baptiſm</hi> with Water, the Sacraments, as we uſe them, he is not in the Practice of; neither doth he ſeek to be Qualified to be a Miniſter among us, of the <hi>Church</hi> of <hi>England;</hi> or is he owned by any other Society of <hi>Proteſtants,</hi> ſince he turned from you <hi>Quakers,</hi> againſt whom he now Enveighs and Exhibits heavy Charges, as if you denied the <hi>Lord that bought you, and did not own Jeſus Chriſt for a neceſſary Object of your Faith, as he died for Re<g ref="char:EOLhyphen"/>miſſion of Sins, and as his Blood was ſhed, and as he roſe again, and aſcended into Heaven in our Nature</hi> (as we ſay) <hi>and is now in Heaven, making Inter<g ref="char:EOLhyphen"/>ceſſion for Men?</hi>
+               </p>
+            </sp>
+            <sp>
+               <speaker>Qu.</speaker>
+               <p>I could eaſily ſhew how, in his former Fit, he render'd thoſe of thy Coat, the Prieſts, <hi>Gullers</hi> and <hi>Cheats;</hi> and ſaid, <q rend="inline">It <hi>lay upon him from the Lord to depart from thoſe Teachers:</hi>
+                  </q> And how he
+<pb n="7" facs="tcp:137249:4"/>confeſſeth, <hi>he came and heard Men and Women who were taught of God, who pointed him to the True Prin<g ref="char:EOLhyphen"/>ciple; tho' ſome of them could not read a Letter, yet he found them wiſer than all the Teachers he ever formerly had been under.</hi>
+               </p>
+               <p>And if now he Belies, and falſly Accuſeth us, and Miſrepreſents us, as <hi>Erronious</hi> and <hi>Un<g ref="char:EOLhyphen"/>ſound</hi> in ſome Points of Chriſtian Doctrine, not Fundamental, or Eſſential to Salvation; he will not, I perſume, ſay of the People called <hi>Qua<g ref="char:EOLhyphen"/>kers,</hi> as of the School-men, and National Teachers Doctrine, of whom he ſaith, <hi>They generally being Men void of all Senſe and Feeling of God; have, in the blindneſs of their Minds, and in the Wiſdom from below, that is Carnal, Earthly, and Deviliſh, formed and in<g ref="char:EOLhyphen"/>vented Perverſe Doctrine for their own Gains and Ends;</hi> And renders the Members by Whole-ſale, of the National Churches, <hi>a mixed, confuſed Rab<g ref="char:EOLhyphen"/>ble of Godleſs Atheiſts;</hi> and as much Clamour as he now makes againſt us; and Noiſe about Chriſt without, he hath aſſerted, <hi>That which makes the true Church Miniſtry and Worſhip is Jeſus Chriſt re<g ref="char:EOLhyphen"/>vealed in themſelves; and that there is, not another Chriſt from him that came in the Fleſh, and died with<g ref="char:EOLhyphen"/>out the Gates of</hi> Jeruſalem, <hi>but one and the ſame Chriſt; and that the Light of Jeſus Chriſt, which they ſo much deſpiſe and contemn, this would end all their Contro<g ref="char:EOLhyphen"/>verſies, heal their Diſeaſes, remove all their Doubts bind up all their Wounds and Breaches, if they would but come to the Teachings of God's Spirit, and the Anoint<g ref="char:EOLhyphen"/>ing in themſelves; this would be an Infallible Touch-Stone, and Rule of Trial unto them, for one and all.</hi>
+               </p>
+               <p>And truly my deſire is, he may return to this, that he may be healed, and know the Breach
+<pb n="8" facs="tcp:137249:5"/>made up, which he hath made, if it were the Lord's Will.</p>
+            </sp>
+            <sp>
+               <speaker>Ch.</speaker>
+               <p>Oh my old Friend, if thou art ſincere here<g ref="char:EOLhyphen"/>in, and what thou ſay'ſt be true of him, he is not the Man that ſome take him for.</p>
+            </sp>
+            <sp>
+               <speaker>Qua.</speaker>
+               <p>I am ſincere, and what I ſay is true, of him; and he himſelf hath declared this great Truth, <q rend="inline"> That the People and Children of God in all Ages have been ſtrangers unto the World, and unknown to it, and have been for Signs and Wonders; their Doctrine, their Laws, their Converſations hath always been accounted ſtrange and ridiculous, and they have been reckoned Deceivers and Blaſphemers, <hi>&amp;c.</hi>
+                  </q>
+               </p>
+               <p>And yet now this Man, that with us reckoned himſelf to be of this Number, and continued a<g ref="char:EOLhyphen"/>mong us about Thirty Years, and ſaid, Such, <hi>viz.</hi> 
+                  <q rend="inline"> The Children of God having one Mind, Soul, Spirit, and Life in them all, they cannot but know one another, in that wherein their Unity ſtands,
+<note place="margin">p. 186, 187.</note> and Fellowſhip and Com<g ref="char:EOLhyphen"/>munion one with another; and this Unity of Spirit is the <hi>Bond of Peace.</hi> And he farther ſaith, If they did not <hi>Infallibly</hi> know one another, they could not have <hi>Peace,</hi> and <hi>Unity,</hi> and <hi>Concord</hi> one with another: How could they diſcern the true Friend from the ſecret Enemy, the Deceiver, which is the moſt dangerous Enemy, and comes into all out<g ref="char:EOLhyphen"/>wards and appearances, can put on the Sheep's Cloathing; yet be a rotten Hypocrite, a Limb of Satan, a Brat of <hi>Babylon,</hi> void of all fear of God.</q> And he further adds, <q rend="inline">That theſe many Churches, that have been ſet up in the Apoſtacy,
+<pb n="9" facs="tcp:137249:5"/>have not been true Churches, by reaſon of their Warring, Hatred, Variance, Strife, Emulation, and where-ever any thing of this Spirit of Strife, Hatred,
+<note place="margin">p. 189.</note> Envy Perſe<g ref="char:EOLhyphen"/>cution, enters, it eats as a Canker, and cuts off of the Body that Member or Members whereinto it gets enterance; and ſo going from the Unity and the Peace, the Love, they be<g ref="char:EOLhyphen"/>come paſt feeling Death, rotten Members, and are to be cut off and denied.</q> And for this Cauſe we have denied him; and now he Rages and Joyns with thoſe that Belie and Slander us, and licks up what the foul Stomachs of Perſons that were overcharged with prejudice, caſt forth againſt us.</p>
+            </sp>
+            <sp>
+               <speaker>Ch.</speaker>
+               <p>Hold a little, and conſider, whether what he chargeth you with, is not ſome old dangerous Errors of yours, altho lately diſcovered by him, that were re-writ by ſome of your old Friends, that <hi>F. Bugg</hi> and the <hi>Norfolk</hi> Clergy-men (that have alſo charged you) would have you retract and blame you for Cloaking, and accuſe you with Painting Tricks, and render your Friends, <hi>G. W.</hi> and <hi>W. P.</hi> and your Chief Leaders to ſeem to have ſome of the Policy of the <hi>Jeſuits</hi> and other <hi>Popiſh</hi> Orders, that to Lie and Diſemble is no Sin, providing the Peace of the Church can be preſerv<g ref="char:EOLhyphen"/>ed thereby,</p>
+            </sp>
+            <sp>
+               <speaker>Qua.</speaker>
+               <p>Truly my old Acquaintance, I muſt ſay, to me it's very obſervable, how Glib their Tongues and Swift their Pens run againſt us, how Loud their Clamour, and Severe their Charges are, and yet how empty are their Alligations, and how barren they are of Arguments, and void
+<pb n="10" facs="tcp:137249:6"/>of Proof, as if the Mountains had travelled and brought forth a Mouſe, or according to the Pro<g ref="char:EOLhyphen"/>verb, <hi>A great Cry and little Wool.</hi> Can any Man that is Serious and Impartial, think, that if theſe Men had any Proof, that were as clear as the Sun at Noon-day, and as evident as could be de<g ref="char:EOLhyphen"/>monſtrated, they would not produce them? but no doubt they know they muſt put the picked Sentences out of our old Friends Books, upon the Tenters, and ſtretch them, as the <hi>Romaniſts</hi> do <hi>Hereticks</hi> on the Wheel, to ſee if by that they can get any thing from them, or by ſome falſe Inference, and ſtrain'd and undue conſequences, that they might make the unwary prejudiced Reader conclude, that if <hi>The Snake in the Graſs, F. Bugg</hi> and <hi>G. Keith,</hi> or the Noiſie Rectors of <hi>Norfolk</hi> (which like empty Casks, makes the greateſt ſound) being ſuppoſed (eſpecially the 2 Country-Men and Brethren, <hi>Snake</hi> and <hi>G. K.)</hi> to be learned, it muſt needs be true for they ſay it.</p>
+               <p>And ſince many of the Country Parſons have got that Book, called, <hi>The Snake in the Graſs,</hi> and <hi>Pilgrim's Progreſs,</hi> they hug and applaud them, as if they were undoubted Truths, for alas they ſee it in Print, and if they meet with a Reply, and the words they object againſt be cleared, from what they falſly ſuggeſt and repreſent the ſenſe and meaning to be, either by other parts of the ſame Authors Writings, out of which they are picked, or by a more natural and due Con<g ref="char:EOLhyphen"/>cluſion, or fair Interpretation of the words, than they cry out for Painting Tricks and Gloſſings. But hear what <hi>G. K.</hi> ſaith to ſuch a Caſe, <q rend="inline">If it be ſo among Men, that the Law-Maker is
+<pb n="11" facs="tcp:137249:6"/>admitted, in point of Controverſie, the ex<g ref="char:EOLhyphen"/>pounder of the Law (and if he who writes a Book amongſt Men) be accounted the fitteſt to Interpret, or give ſenſe or meaning of his words, how much more is it neceſſary, that the Spirit of the Lord, which gave forth the Scriptures, be the expounder of them?</q> Now, if this Juſtice be allowed us, and this Rule obſerv<g ref="char:EOLhyphen"/>ed, why ſhould our Friends, <hi>G. W.</hi> and <hi>W. P.</hi> and our Chief Leaders (ſo called) be rendred to have ſome of the Policy of the <hi>Jeſuits</hi> and other <hi>Popiſh</hi> Orders, that to Lie and Diſſemble (as thou thinks) <hi>Is no Sin, providing the Peace of the Church can be preſerved thereby?</hi> Is this the way of a fair Adverſary? Or doth this become Men that would be eſteemed Juſt and Fair? or is it like Learned Miniſters of the Goſpel? Or have they any Precept, Preſident or Example, for this in the Holy Scriptures? Do not they rather Imitate thoſe they would Inſinuate the <hi>Quakers</hi> to be like? Do not they herein more reſemble them? And is it any Reputation to your Church, or any Principal Member of it, to Hug, Promote and Recommend the Works of ſuch Men, that nei<g ref="char:EOLhyphen"/>ther own you, nor you them, for I conclude your Church doth not own the Author to <hi>The Snake in the Graſs,</hi> nor <hi>G. K.</hi> to be approved Mini<g ref="char:EOLhyphen"/>ſters of your Church, if you do, why is the firſt Suſpended, and the latter not Inſtituted and Or<g ref="char:EOLhyphen"/>dained by you? Is it not becauſe they do not own you, nor you them? Be plain and anſwer me herein, and tell me whether you allow, that Men now have that Infallible Spirit of God, or a Meaſure of it, that the Holy Pen-men were mov<g ref="char:EOLhyphen"/>ed
+<pb n="12" facs="tcp:137249:7"/>to write the Holy Scriptures by? If not, ac<g ref="char:EOLhyphen"/>cording to <hi>G. K.</hi> (whom you ſo Hug and Coun<g ref="char:EOLhyphen"/>tenance) you have not that which is neceſſary to Expound Scripture by, and then what need any to heed your Interpretation? and if you Preach not by the Spirit of God, and Pray not by the Aſſiſtance thereof, how can you profit the People? I both acknowledge to thy Patience, and deſire thy Excuſe for being ſo long.</p>
+            </sp>
+            <sp>
+               <speaker>Ch.</speaker>
+               <p>Thou haſt indeed now taken a long ſtretch, and if I be long thou muſt not blame me.</p>
+            </sp>
+            <sp>
+               <speaker>Qua.</speaker>
+               <p>Nay, therefore take thy Liberty.</p>
+            </sp>
+            <sp>
+               <speaker>Ch.</speaker>
+               <p>Then I do firſt premiſe, whatever Opini<g ref="char:EOLhyphen"/>on thy Friends may have of ſuch as I am, I do aſſure thee, I would be fair and juſt to all Men, for I am not for ſuch Chriſtianity as doth not exceed Morality, or that doth not anſwer our Saviour's Do<g ref="char:EOLhyphen"/>ctrine, and I do confeſs, I am ſomewhat ſurprized at what <hi>G. K.</hi> hath ſaid upon theſe points thou quotes him in, and if he be truly repreſented, he appears with no Grace; but that Author of <hi>The Snake in the Graſs,</hi> tho I know him not Perſonal<g ref="char:EOLhyphen"/>ly, yet he appears to be a Man of Parts and Learning, but whether he owns our Church, or we him, as an approved Miniſter thereof, I can<g ref="char:EOLhyphen"/>not tell; but as to <hi>G. K.</hi> I am of opinion the Church of <hi>England</hi> do not eſteem him a Miniſter thereof, and whether he owns them, or the 39 Articles, I know not, but am of Opinion, he doth not as ſtated by us.</p>
+               <p>But what he propoſeth about Authors being their own Interpreters, I think Juſt and Reaſon<g ref="char:EOLhyphen"/>able if Living, and if Dead, the way thou propoſ<g ref="char:EOLhyphen"/>ed,
+<pb n="13" facs="tcp:137249:7"/>I approve of, and as to the <hi>Norfolk</hi>-Clergy, if I had been in their place, and knew my Proofs clear, I would not have concealed them.</p>
+               <p>And the Simbolizing you with the <hi>Jeſuits,</hi> and accounting you to have the Policy of ſome of them, without good Grounds, I do frankly ac<g ref="char:EOLhyphen"/>knowledge I do not like, for altho I eſteem you Erroneous in ſeveral things, yet I always account<g ref="char:EOLhyphen"/>ed you among Diſſenting Proteſtants.</p>
+               <p>And as to our allowing Men now to have the Infallible Spirit of God, Immediately to Guide them, I do acknowledge that I do not account we have, yet being truly called and inſtituted, and ordained to the Miniſtry, and Preaching thoſe Truths that are agreeable to Scripture, and Living good Lives, we may and do profit the People.</p>
+               <p>But Friend be plain with me now, as I have been, and tell me, do you own the forgive<g ref="char:EOLhyphen"/>neſs of Sins, and the Doctrine of Satisfaction, the Reſurrection of the Dead.</p>
+            </sp>
+            <sp>
+               <speaker>Qua.</speaker>
+               <p>I commend thy Moderation and Cauti<g ref="char:EOLhyphen"/>ouſneſs in thy laſt Anſwer, although I eſteem thee miſtaken with reſpect to the laſt part of it; and now I do in much Plainneſs and Sincerity con<g ref="char:EOLhyphen"/>feſs and acknowledge, I own the forgiveneſs of Sins, the ſatisfaction of Chriſt, and the Reſur<g ref="char:EOLhyphen"/>rection of the Dead, according to the Holy Scri<g ref="char:EOLhyphen"/>ptures.</p>
+            </sp>
+            <sp>
+               <speaker>Ch.</speaker>
+               <p>Do you own that all Juſt and Moral Men, <hi>Jews</hi> and <hi>Mahometans,</hi> that profeſs the ſame <hi>Light within</hi> as you do, and obey its dictates, to be your Chriſtian Brethren?</p>
+            </sp>
+            <pb n="14" facs="tcp:137249:8"/>
+            <sp>
+               <speaker>Qua.</speaker>
+               <p>As <hi>G.</hi> K. hath acknowledged in Print, ſo do I, concerning Jeſus Chriſt, <hi>that he did come in the Fleſh, and Suffered in that prepared Body that was Born of the Virgin</hi> Mary; yea, we own no other Chriſt than the very ſame who did then come in the Fleſh in that Body, and Preached a moſt Heavenly Doctrine, Lived a moſt Holy Life, wrought moſt Excellent Miracles, and at laſt did offer up himſelf, unto God without Spot, moſt acceptable upon the Croſs, not only for our Sins, but for the Sins of the whole World; and this Je<g ref="char:EOLhyphen"/>ſus Chriſt in us, whom we Preach, who is the <hi>Way,</hi> the <hi>Truth,</hi> and the <hi>Life,</hi> and <hi>Light,</hi> of the World, even that true <hi>Light, that lighteth every Man that cometh into the World,</hi> is not another Chriſt from him that came in the Fleſh, and died without the Gates of <hi>Jeruſalem,</hi> but one and the ſame Chriſt. And I frankly Acknowledge, I own and eſteem all them to be my Chriſtian Brethren, that truly Believe in, rightly Profeſs, and faithfully Obey him, <hi>i. e.</hi> Jeſus Chriſt, and that walk in his Light, and obey the Dictates thereof.</p>
+            </sp>
+            <sp>
+               <speaker>Ch.</speaker>
+               <p>Do you think, that Chriſt, God-Man with<g ref="char:EOLhyphen"/>out you, to be the Object of your Faith; toge<g ref="char:EOLhyphen"/>ther with the Light within you, will bring many great Inconveniences, and ſad Inferences and Conſequences upon you?</p>
+            </sp>
+            <sp>
+               <speaker>Qua.</speaker>
+               <p>Truly to take Chriſt whole and undivided for the Object of my Faith, I do not think will bring any great Inconveniences, and ſad Con<g ref="char:EOLhyphen"/>ſequences and Inferences upon me.</p>
+            </sp>
+            <sp>
+               <speaker>Ch.</speaker>
+               <p>Why? In this late <hi>Dialogue</hi> I mentioned, the <hi>Quakers</hi> is made to anſwer <hi>Yea,</hi> and to ſay, <q rend="inline">It
+<pb n="15" facs="tcp:137249:8"/> quite overturns our whole Fabrick, that we have been building this fifty Years paſt, and plucks up by the Roots, the Teſtimony of our Ancient Friends; yea, and our preſent Teſtimony among our ſelves.</q>
+               </p>
+            </sp>
+            <sp>
+               <speaker>Qua.</speaker>
+               <p>It is our Lot, as it was the Primitive Chri<g ref="char:EOLhyphen"/>ſtians, to be miſrepreſented, and by ſuch, whoſe Wrath is cruel, and Anger out-ragious. And who is able to ſtand againſt Envy (which our Adverſaries are fill'd with againſt us) but thoſe that have <hi>Truth</hi> for their Foundation, and <hi>Innocency</hi> for their Defence? Which, we humbly Bleſs God, we have, as our Ancient Faithful Brethren, that died in the Faith, and are at reſt with the Lord, had, that is our Comfort and Rejoycing; this the <hi>Teſtimony of our Conſciences,</hi> 2 Cor. 1.12. And we can and do teſtifie and declare, That we ſincerely own all thoſe Divine Truths, and Chriſtian Do<g ref="char:EOLhyphen"/>ctrines, contain'd in the Holy Scriptures of Truth, however we are miſrepreſented by our Op<g ref="char:EOLhyphen"/>poſers.</p>
+            </sp>
+            <sp>
+               <speaker>Ch.</speaker>
+               <p>Do you own the Holy Scriptures a <hi>Se<g ref="char:EOLhyphen"/>condary Rule?</hi>
+               </p>
+            </sp>
+            <sp>
+               <speaker>Qua.</speaker>
+               <p>Yea, and the Holy Spirit, by which the Holy Men of God were moved to write them, the <hi>Primary.</hi>
+               </p>
+            </sp>
+            <sp>
+               <speaker>Ch.</speaker>
+               <p>Do you think the Light in all Men would reveal Chriſt, God-Man without them, to be the Object of Faith and Worſhip, if all Men were duly Faithful and Obedient to it?</p>
+            </sp>
+            <sp>
+               <speaker>Qua.</speaker>
+               <p>We think and believe, <hi>God was manifeſt in the Fleſh, juſtified in the Spirit, ſeen of Angels, preach<g ref="char:EOLhyphen"/>ed unto the Gentiles, believed on in the World, received up into Glory;</hi> and if all Men did receive and be<g ref="char:EOLhyphen"/>lieve
+<pb n="16" facs="tcp:137249:9"/>in him, who is the <hi>Light</hi> in all Men, then he would reveal himſelf unto all Men, and be the Objeſt of their Faith and Worſhip, if all Men were daily Faithful and Obedient to him.</p>
+            </sp>
+            <sp>
+               <speaker>Ch.</speaker>
+               <p>Do you believe, that he that was Born of <hi>Mary,</hi> preached and wrought Miracles, ſuffered at <hi>Jeruſalem,</hi> died and was buried, was the Son of God? Yea, notwithſtanding them <hi>Diologues</hi> wick<g ref="char:EOLhyphen"/>edly makes the <hi>Quakers</hi> ſay, <hi>Abraham and David was his Father.</hi> But as <hi>G. K.</hi> ſaith, <hi>True Chriſt own<g ref="char:EOLhyphen"/>ed,</hi> p. 18. <q rend="inline">If thou denieſt this, I ask thee, who was the Father of <hi>Chriſt,</hi> as he was Man, but God? For if he had another Father, then he was not Born of the Virgin <hi>Mary:</hi>
+                  </q> Which <hi>G. K.</hi> concluded <hi>Rampant Blaſphemy.</hi> But by the <hi>Dialogue</hi> I mentioned, I perceive the <hi>Jews,</hi> and <hi>Mahometans,</hi> and <hi>Deiſts,</hi> are render'd your <hi>Chriſtian Brethren;</hi> and you are repreſented <hi>Anthropomorphites</hi> and <hi>Muggletonians.</hi>
+               </p>
+            </sp>
+            <sp>
+               <speaker>Qua.</speaker>
+               <p>We cannot expect better Treatment, nor to be allowed to mean what we ſay, or believe what we really do, by thoſe whoſe endeavours have been and are from their Prejudiced Spirits, to miſrepreſent us, and to put as ugly a Viſſage, and as frightful a Dreſs on us as they can, that we might look Odious, and be Contemptible in the Eyes of thoſe who they would Curry Favour with, for their own Ends, and to gratifie their Ill-will, which as the Proverb is, <hi>never ſpeaks well.</hi>
+               </p>
+            </sp>
+            <sp>
+               <speaker>Ch.</speaker>
+               <p>But Friend, if thou accounteſt you are ſo much wronged; conſider, and tell me why you do not accept of <hi>G. K</hi>'s Challenge? For in his <hi>Poſtſcript</hi> to this <hi>Dialogue,</hi> he ſaith, <q rend="inline">I ſhall once more appoint Time and Place to them,
+<pb n="17" facs="tcp:137249:9"/>and prove out of their Friends Books, owned by them, that their new Creeds are utterly Re<g ref="char:EOLhyphen"/>pugnant to the Doctrine formerly delivered in their Printed Books; and (he ſaith) I am ready to prove, as I hinted before, Face to Face, what is aſſerted in this <hi>Dialogue.</hi>
+                  </q>
+               </p>
+            </sp>
+            <sp>
+               <speaker>Qua.</speaker>
+               <p>
+                  <hi>G. K.</hi> began to expoſe us in publick Print, and that way was anſwered; and he hath been Induſtrious ſince, with his few Abetters to ſpread his Books, in this and other Nations; and after that to take upon him to Summon us to a Corner to diſcover, in thoſe things ſo publickly Expoſed, and relating to what hath been ſo long Publiſhed in Print: Our Friends did not eſteem themſelves obliged either to follow his Conceited Methods, or to regard his Peremtory Summons, nor to take Cogniſance of his empty and boaſting Chal<g ref="char:EOLhyphen"/>lenge.</p>
+               <p>But this I may obſerve, and would have thee well conſider, how Officious he is to be a Drudge or Journey-Man for the <hi>Norfolk Prieſt,</hi> and his Brother <hi>Bugg,</hi> which I conclude is from the great Conceit he hath of his own Abilities, as if he could do that which they could not, at <hi>Weſt-Dereham,</hi> which neither he <hi>F. B.</hi> nor they have yet done, <hi>viz.</hi> Proved every one of the People called <hi>Quakers</hi> to be <hi>Blaſphemers,</hi> on all thoſe Heads they were charged with, by them <hi>Prieſts,</hi> by expreſs words out of their Ancient Friends Books, without the wild and undue Conſe<g ref="char:EOLhyphen"/>quences, ſtrained Inferences, and wrong Con<g ref="char:EOLhyphen"/>cluſions. And this I would have thee well ob<g ref="char:EOLhyphen"/>ſerve and conſider, that he and <hi>F. B.</hi> ſeem to be in a wonderful and great Travel, to prove our
+<pb n="18" facs="tcp:137249:10"/>of their Friends Books, written whilſt they were amongſt them, that they held groſs Errors, and printed and approved many Blaſphemies; and that their new Creeds are utterly Repugnant to the Doctrine formerly delivered in their Books.</p>
+               <p>Now if their new Creeds be utterly Repugnant to what they formerly writ; and for that they formerly writ, are render'd Erroneous and Blaſ<g ref="char:EOLhyphen"/>phemous, ſurely they cannot be charged with Blaſphemy and Error in what they have lately writ.</p>
+               <p>So that now the <hi>Quakers</hi> grow better, and they grow worſe; they know how to avoid Suffering, and the <hi>Quakers</hi> are liable to Suffer, they would In<g ref="char:EOLhyphen"/>cenſe the Government againſt them: Surely their tender Mercies are Cruelty, and their Forgiveneſs ſhort of the Governments, who have paſt ſeveral Acts of Indemnity: If they had been formerly Guilty, which I grant not; they acted more like the Lord that forgave freely, and thoſe Men more like that Servant that was forgiven, and yet took his Fellow-Servant by the Throat; a plain Proof of an ill Spirit, and ungrateful Temper. And take notice, <hi>G. K.</hi> ſaith, <hi>He is ready to prove what's in the Dialogue:</hi> Then why doth he not? Who hinders him? He, to me, ſeems willing to Brag, and ſpeak Big, altho' he doth little.</p>
+            </sp>
+            <sp>
+               <speaker>Ch.</speaker>
+               <p>Truly I think it's pity you ſhould be blam<g ref="char:EOLhyphen"/>ed when ye are accounted to mend; but I would not have you think, there is any more fear of Perſecution therein, than you think there is for thoſe Men that have ſo generally Charged you all with Blaſphemy, to prove that by Expreſs
+<pb n="19" facs="tcp:137249:10"/>Words, that will really appear to be ſo. And truly I could, and do heartily wiſh, there might more good Nature appear among us, and we all might be better Neighbours one to ano<g ref="char:EOLhyphen"/>ther, and be no more angry one with another, ſimply upon the account of Conſcience, and our Religious Diſſent; for I think there is no more reaſon for that, than our being angry one with another, for not being all of one Size, and our Hair not all of one Colour.</p>
+            </sp>
+            <sp>
+               <speaker>Qua.</speaker>
+               <p>Thy Moderation, and thy Sentiments are more like to prevail upon me, than all the Peeviſh Carriage, and Bitter Invectives, and En<g ref="char:EOLhyphen"/>vious Attempts of thoſe Angry, Hot-headed Men, who can better Rail than Reaſon, and Clamour than Convince. And ſo <hi>Farewel.</hi>
+               </p>
+            </sp>
+         </div>
+         <div type="tract">
+            <pb n="20" facs="tcp:137249:11"/>
+            <head>A REPLY IN <hi>Anſwer to a late Pamphlet.</hi>
+            </head>
+            <p>P. 4. THE Anſwerer quotes the <hi>Quaker,</hi> p. 5. for ſaying, <q rend="inline">By the Light within he means no other than Chriſt, as the Divine Word, or <gap reason="foreign" resp="#OXF">
+                     <desc>〈 in non-Latin alphabet 〉</desc>
+                  </gap>, which enlightens every Man that comes into the World; and for the Reformati<g ref="char:EOLhyphen"/>on of Man, God hath given unto every Man, and in and by this Light, Invites, Calls, Exhorts and Strives with every Man, in order to ſave them; which, as it is received, and not reſiſted, works the Salvation of all.</q>
+            </p>
+            <p>Anſwer. <hi>There he diſcovers his deſign, without any diſguiſe.</hi>
+            </p>
+            <p>
+               <hi>Reply.</hi> Oh how Eagle-eyed this conceited An<g ref="char:EOLhyphen"/>ſwerer, <hi>G. K</hi>'s Friend pretends to be! How ſharp and quick in his pretended Diſcovery of <hi>Error</hi> and <hi>Deiſm!</hi> Let him next time adviſe with ſome<g ref="char:EOLhyphen"/>body that is better acquainted with the Holy
+<pb n="21" facs="tcp:137249:11"/>Scriptures, that he may be informed, whether to Aſſert, that Chriſt, the Divine Word, that God hath given for the Reſtoration of Man, works his Salvation, as the is believed in, received, and not reſiſted.</p>
+            <p>And in p. 5. he ſaith, <hi>And here this real</hi> Quaker <hi>gives us a plain account, what his Chriſt is; to wit, the Divine</hi> 
+               <gap reason="foreign" resp="#OXF">
+                  <desc>〈 in non-Latin alphabet 〉</desc>
+               </gap>, <hi>or Word, without Chriſt's Manhood, and all that he did and ſuffered for us without, and all that he's now doing for us in Heaven.</hi>
+            </p>
+            <p>
+               <hi>Reply.</hi> Where, in all that <hi>Dialogue,</hi> he pretended to Anſwer, doth he find the real <hi>Quaker</hi> ſay ſo? What, hath this Friend of <hi>G. K</hi>'s no Conſcience or Honeſty?</p>
+            <p>I aſſure him, he that in that <hi>Dialogue</hi> is termed the <hi>real Quaker,</hi> believes in, owns not, neither ex<g ref="char:EOLhyphen"/>pects Salvation by any other Chriſt, than he that is the only begotten Son of the Eternal God, which all true Chriſtians did and do believe in, and expect Salvation by; who is not any other Chriſt, than he that was the <hi>Word that was in the beginning with God, and was God.</hi>
+            </p>
+            <p>P. 6. In anſwer to the real <hi>Quakers</hi> ſaying, <q rend="inline"> We ſearch the Scriptures diligently, and find, that in Man that Reproves for Sin, is the Spi<g ref="char:EOLhyphen"/>rit of him that never Sinned, <hi>John</hi> 16. 7, 8, 9, 10, 11, and 13.</q>
+            </p>
+            <p>The Anſwerer <hi>G. K</hi>'s Friend, p. 6. ſaith, <hi>Here the</hi> Quakers <hi>Ignorance and Blindneſs is manifeſt, that he is not taught, according to Scripture.</hi>
+            </p>
+            <p>
+               <hi>Reply.</hi> I am well aſſured, notwithſtanding this groſs Reflection on the real <hi>Quaker,</hi> that he is not ſo Ignorant and Blind, nor Unacquainted with the Holy Scriptures, but that he knows
+<pb n="22" facs="tcp:137249:12"/>that there are diverſities of Gifts, but the ſame Spirit; and differences of Adminiſtrations, but the ſame Lord; and diverſities of Operations, but it is the ſame God which worketh all in all; and that he is taught according to Scrip<g ref="char:EOLhyphen"/>ture, to diſtinguiſh, but not to divide the Gift from that Spirit, nor the Illumination from Chriſt: For, although this Anſwerer ſaith, <hi>The</hi> Quakers <hi>common anſwer is, <q rend="inline">That Chriſt cannot be divided.</q> He matters not that, ſo long as it's true; neither heeds he the Commonneſs of it.</hi>
+            </p>
+            <p>Was that Faith er'e the Leſs, True, and Sa<g ref="char:EOLhyphen"/>ving, which <hi>Paul</hi> calls the <hi>common Faith,</hi> Titus 1.4? Or that Salvation not Compleat or Sufficient, of which <hi>Jude</hi> wrote, becauſe he writes after the Common Salvation, ſee <hi>Jude?</hi>
+            </p>
+            <p>What Idle, Impertinent Scribble doth this Man make about Common Light, Common Illuminati<g ref="char:EOLhyphen"/>on, and being Saved by the Light within, without any thing elſe? Now if he could prove that Chriſt without and Chriſt within could be divided, which he grants he cannot, he might do ſomething towards proving that Chriſt, that lighteth eve<g ref="char:EOLhyphen"/>ry Man within, and ſhews Man Sin by his Light within, was not able to ſave without ſomething elſe; but Chriſt, when he had preached himſelf the Light of the World, bid or commanded, That <hi>they ſhould believe in the Light, that they might be Children of the Light, and Children of the Day.</hi>
+            </p>
+            <p>And may we not well conclude, that thoſe that anſwer his Command, take his Counſel, and Believe and Abide in him, the Light, will be ſaved. It's not all <hi>G. K.</hi> and his Friends twiſting, twining, and confidently cry<g ref="char:EOLhyphen"/>ing
+<pb n="23" facs="tcp:137249:12"/>out of Groſs Ignorance, Error and Blaſphe<g ref="char:EOLhyphen"/>my, nor his calling to the Clergy, and their ap<g ref="char:EOLhyphen"/>plying to the Parliament againſt the <hi>Quakers,</hi> and their and the <hi>Presbyterians, Independents</hi> and <hi>Baptiſts</hi> telling the Parliament, <hi>If</hi> F. B. <hi>writes true,</hi> which I ſuppoſe no Man that hath a Grain of Charity can believe he doth, <hi>they are ſorrow<g ref="char:EOLhyphen"/>fully affected, that the</hi> Quakers <hi>are joyned with them in the Toleration.</hi> But it ſhews what <hi>G. K.</hi> and thoſe he herds with, would be at: They want the <hi>Toleration</hi> to be taken away from the <hi>Quakers,</hi> and pretend that the Profeſſors are ſorrowfully affected, that they are joyned with them, according to <hi>F. B</hi>'s Sheet, lately deliver<g ref="char:EOLhyphen"/>ed to the Parliament; but I do not believe he either truly repreſents the Conformiſts or Non<g ref="char:EOLhyphen"/>conformiſts therein, but abuſeth and belyes both, as he doth the <hi>Quakers:</hi> For if it were true, the Profeſſors then would ſeem to be willing to do that with a Toleration, which they did not do, when under Perſecution, <hi>viz.</hi> Stand alone: But away with ſuch Deceit, all his idle Clamours about being ſaved by Chriſt within, without ſomething elſe; for thoſe that receive, and believe in him, that is, Chriſt the Light, will not, cannot, do not in the leaſt Slight, Undervalue, Diſeſteem or Disbelieve what he did for them, without them, and now doth for them in Heaven, but Own, Honour and Eſteem of the Lord Chriſt, in all his Offices, and bleſs him for all his Gifts; knowing, that although there are diverſities of Gifts, differences of Ad<g ref="char:EOLhyphen"/>miniſtrations, it's the ſame Lord; and diverſities of Operations, but the ſame God. So that the
+<pb n="24" facs="tcp:137249:13" rendition="simple:additions"/>Seed the Lord promiſed he would give to the Woman; and he whoſe day <hi>Abraham</hi> ſaw and rejoyced in, that <hi>Moſes</hi> Propheſied of, and all the Holy Prophets; yea, he that was Born of the Virgin <hi>Mary,</hi> wrought Miracles, preached himſelf the Light of the World, ſuffered and died for our Sins, and roſe again for our Juſti<g ref="char:EOLhyphen"/>fication, is one and the ſame Chriſt and Saviour. And therefore all the Noiſe, Clamours, Slan<g ref="char:EOLhyphen"/>ders, falſe Accuſations, and Miſrepreſentation of prejuced Spirits, and their Inſinuations; ſo the contrary can never hurt the <hi>Quakers;</hi> nor do I eſteem, that what the other hand ſaith of the Light, <hi>viz.</hi> in his <hi>Advice,</hi> p. 16. 7. <hi>viz.</hi> 
+               <q rend="inline">I have often known, that ſome which have been reproved by that Light, have greatly rejoyced, believing it to be a Sign, that their Conſciences are yet alive, and not made Ship<g ref="char:EOLhyphen"/>wrack of.</q> Is this any proof, that Chriſt the Light is not ſufficient to Save without Some<g ref="char:EOLhyphen"/>thing Elſe, or any thing elſe beſides him<g ref="char:EOLhyphen"/>ſelf, whom God hath given to be a Saviour to all Men, but eſpecially to them that Be<g ref="char:EOLhyphen"/>lieve. And let him in his next ſhew what that Something, or any thing elſe is, beſides Chriſt.</p>
+            <p>And it may be well for him, and <hi>G. K.</hi> his Friend, if Chriſt's Light doth reprove them for their Evil Deeds, their Paſſion, Strife, Hatred Contention, Envy and falſe Accuſation, if they turn thereat; and from thoſe things for which they were reproved. But let them remember, That he that being <hi>often Reproved, and hardeneth his Heart, ſhall be deſtroyed, and that without Reme<g ref="char:EOLhyphen"/>dy;
+<pb n="25" facs="tcp:137249:13"/>for if they Sin out their day, and will have none of his Reproofs, and ſet at nought all God's Counſel; the Lord will laugh at their Calamity, and mock when their Fear cometh as Deſolation, and their Deſtruction cometh as a Whirl-wind.</hi> And if that be their States, all the <hi>Baptiſts</hi> and <hi>Prieſts</hi> in <hi>England</hi> cannot help and deliver them. There<g ref="char:EOLhyphen"/>fore they had beſt be wiſe, and conſider their Ways, and amend their Doings.</p>
+            <p>As for the farther advice by another Hand, I ſee little or nothing in it, but what was an<g ref="char:EOLhyphen"/>ſwered in the fore-going, except his Blam<g ref="char:EOLhyphen"/>ing the Author for reflecting on what <hi>G. K.</hi> when he was one of them, wrote; from which I obſerve the real <hi>Quaker</hi> and he is agreed, that <hi>G. K.</hi> is not now one of them. And let him in his next tell us what diſtinct Society of Chri<g ref="char:EOLhyphen"/>ſtian People will own <hi>G. K.</hi> for one of them, and what Name they are called by, that it may be known.</p>
+            <p>But this is ſomething of a Digreſſion, and there<g ref="char:EOLhyphen"/>fore I return to the Anſwerer.</p>
+            <p>P. 5. <hi>The ſuppoſed Presbyterian having ſaid,</hi> 
+               <q rend="inline">That in Men that reproves for Sin, is <hi>only</hi> the Law written in the Heart,</q> p. 6. <hi>The Church-Man is made to check the Presbyterian, and to tell him,</hi> 
+               <q rend="inline">He fears, he does not well conſider the word <hi>only;</hi> for if it be granted, that it's Chriſt, as the Divine Word, that reproves for Sin, as the <hi>Quakers</hi> ſay; then don't you carry it too far, by aſſerting, it's only the Law.</q>
+            </p>
+            <pb n="26" facs="tcp:137249:14"/>
+            <p>Anſwerer, <hi>The ſaying that in Men that reproves for Sin, is only the Law, hath this true obvious ſenſe, without any ſtrain, to wit, the common Illumination that is in all Men: And this ſenſe,</hi> the Anſwer ſaith, <hi>the</hi> Quaker <hi>is obliged to hold to, if he will follow his greater Patrons,</hi> G. Whitehead <hi>and</hi> W. Penn,</p>
+            <p>
+               <hi>Reply,</hi> Hath <hi>G. W.</hi> or <hi>W. P.</hi> ever ſaid that the True <hi>Light, that lighteth every Man that cometh into the World,</hi> was not Chriſt, or that Chriſt, that True <hi>Light,</hi> was not ſufficient to Save without ſome<g ref="char:EOLhyphen"/>thing elſe, or that that True <hi>Light,</hi> Chriſt, that re<g ref="char:EOLhyphen"/>proves for Sin, was <hi>only</hi> the Law, or common Illumination given by Chriſt, and of the Di<g ref="char:EOLhyphen"/>vine Word to all Mankind, and was not ſuffi<g ref="char:EOLhyphen"/>cient to Salvation through Faith in Obedience to Chriſt this <hi>Light</hi> and <hi>Word,</hi> did they ever ſay ſo?</p>
+            <p>I obſerve in p. 8. the Anſwerer complains, that <hi>the word</hi> Simply <hi>was left out, in the repeating ſome words out of the</hi> Dialogue between a Country Friend, and a <hi>London</hi> Friend, and one of <hi>G. K</hi>'s Friends <hi>(which by the way, obſerve who be<g ref="char:EOLhyphen"/>gan this Dialogueing way, which now being taken up by them, they are followed in) but to return, the un<g ref="char:EOLhyphen"/>fair</hi> Quaker <hi>ſaith, the Anſwerer leaves out the Word</hi> Simply, <hi>which was mainly neceſſary, truly to the State of the Controverſie,</hi> viz. <hi>whether that Princi<g ref="char:EOLhyphen"/>ple within Men, that only reproved or condemned them for Sin, and but convinceth of ſome Moral Duties, and doth not propoſe to them, the great Object of Faith, Chriſt Jeſus, as he ſuffered Death on the Croſs for the Remiſſion of our Sins, doth Save them without
+<pb n="27" facs="tcp:137249:14"/>Chriſt Crucified, and without all Faith in him as ſuch.</hi>
+            </p>
+            <p>
+               <hi>Reply,</hi> Let this learned Anſwerer that pretends truly to ſtate the Controverſie, tell in his next what that Principle in Men is, that Only or Sim<g ref="char:EOLhyphen"/>ply Reproves or Condemns them for Sin, and but Convinceth of ſome Moral Duties; and doth not, or is not ſufficient to propoſe to them the greater object of Faith, Chriſt Jeſus, who ſuf<g ref="char:EOLhyphen"/>fered on the Croſs, for the Remiſſion of our Sins.</p>
+            <p>For the <hi>Quaker</hi> believes and declares that the ſame Chriſt that by his Light in Men, Reproves and Condemns for Sin, ſhews Man his Duty to God, is ſufficient, being the alone Saviour to Save Man from his Sin, and to enable Men to perform their Duty, and to propoſe to them the great Object of Faith, as he is the Author of it.</p>
+            <p>P. 9. The Anſwerer ſaith, <hi>He,</hi> i. e. <hi>Author to that Book he pretends to Anſwer, blames his Oppo<g ref="char:EOLhyphen"/>nent. for ſaying, that</hi> Cornelius <hi>was not to be ſaved by the Light within without ſomething elſe.</hi>
+            </p>
+            <p>
+               <hi>Reply,</hi> And when this Anſwerer ſhews that <hi>Cor<g ref="char:EOLhyphen"/>nelius</hi> was ſaved by any other than Chriſt, the <hi>Light,</hi> which ſhines within the Hearts of Men, to ſhew Sin, to Convince and Reprove for it, he may ex<g ref="char:EOLhyphen"/>pect farther Anſwer.</p>
+            <p>Again the Anſwerer ſaith, p. 9, 10. <hi>The true Con<g ref="char:EOLhyphen"/>troverſie is not what God can do, but what Suffi<g ref="char:EOLhyphen"/>ciency of help he hath given to all Men for their Salvation, as whether their help is only and alone the Light within?</hi>
+            </p>
+            <pb n="28" facs="tcp:137249:15"/>
+            <p>
+               <hi>Reply,</hi> When he proves that Chriſt, who the <hi>Quakers</hi> aſſert to be that <hi>Light within,</hi> which they Preach, is not ſufficient for Salvation, or that he is not <hi>only</hi> and <hi>alone</hi> able to ſave, he may expect a farther Anſwer, or when he proves that Chriſt, or that Divine Word, is <hi>only</hi> ſufficient to diſcover ſome Moral Principles of Sobriety and Juſtice, and general Piety towards God, conſidered only as a Creator, and not ſufficient to ſave and reveal Chriſt Crucified; he will do more than he hath done yet.</p>
+            <p>And as to what he ſaith, p. 10, 11. that <hi>Rom.</hi> 3.25. <hi>Iſa.</hi> 42. and 60. <hi>were perverted and miſap<g ref="char:EOLhyphen"/>plied,</hi> — and his complaint of bringing in the Church-Man to aſſent and approve of his Groſs Perverſion and Miſapplication of the Scriptures, <hi>and makes his Church-man aſſent to the</hi> Quakers <hi>Proof out of the Goſpel to be read on</hi> Chriſtmas-<hi>day.</hi>
+            </p>
+            <p>
+               <hi>Reply,</hi> I deny that thoſe Scriptures are either perverted or miſapplied, notwithſtanding thy Confident Say ſo, and Groſs Dealing, that they have no ſpecial-reference to Chriſt within, and his being given as a Covenant of Light to the <hi>Gentiles,</hi> who ſhall bring forth Judgment to them, and the Forces of the <hi>Gentiles</hi> ſhall come unto him; and let him bring if he can, a more full Proof of Chriſt, or the Life of the Word, that <hi>was in the beginning with God, and was God;</hi> being the true <hi>Light, that lighteth every Man that cometh into the World;</hi> that's that which is out of the Goſpel to be read on <hi>Chriſtmas</hi>-day, <hi>viz.</hi> the 9. Verſes of the 1ſt Chapter of <hi>John,</hi> and I do not eſteem that Church-man, or the Church
+<pb n="29" facs="tcp:137249:15"/>of <hi>England,</hi> Ficttiious and Treacherous, as well as Ignorant, as he abuſively ſaith, for I am of Opinion, that the Church of <hi>England</hi> do ex<g ref="char:EOLhyphen"/>pect Salvation only by Chriſt, and do pray to him to Save them, who is the Word, in which is Life, and whoſe <hi>Light is the Light of Men.</hi>
+            </p>
+            <p>And <hi>John Norris,</hi> as quoted by <hi>G. K,</hi> ſaith in his Reflections, <hi>&amp;c. Reflect.</hi> 2. <hi>N.</hi> 9. p. 69. <q rend="inline">The Right and Only method of Inquiry after that Truth, which is perfective of the underſtand<g ref="char:EOLhyphen"/>ing, is to conſult the Divine <hi>Logos,</hi> or Ideal Word, for this is the Region of Truth; and here are hid all the Treaſures of Wiſdom and Truth, this is the great univerſal Oracle lodged in every Man's Breaſt, — <hi>and he ſaith,</hi> this is Reaſon, this is Conſcience, this is Truth, this is the <hi>Light within.</hi>
+               </q>
+            </p>
+            <p>And as to the Clamour that the Dialogue and Anſwerer makes againſt <hi>G. W.</hi> and <hi>W. P.</hi> and the <hi>Quakers</hi> not owning the Fundamental Doctrines of the Chriſtian Religion.</p>
+            <p>I may ſay, as <hi>G. K.</hi> did to <hi>C. Mather,</hi> in his <hi>Serious Appeal,</hi> he being one of <hi>G. K</hi>'s Friends, <q rend="inline"> He ſhall never be able to prove that the <hi>Qua<g ref="char:EOLhyphen"/>kers</hi> deny <hi>allmoſt all, or moſt</hi> of the Funda<g ref="char:EOLhyphen"/>mental Articles of the Chriſtian and Prote<g ref="char:EOLhyphen"/>ſtant Faith, either in reſpect of the Body of that People called, in Scorn, <hi>Quakers;</hi> or in reſpect of any particular Writers or Publiſhers among us, and particularly <hi>George Whitehead</hi> and <hi>William Penn,</hi> I do ſolemnly Charge <hi>C. M.</hi> to give us but <hi>one Single</hi> Inſtance of any one Fundamental Article of Chriſtian Faith,
+<pb n="30" facs="tcp:137249:16" rendition="simple:additions"/>denyed by us, as a People, or by any one of our Writers or Preachers, generally owned and approved by us; I know none that are Guilty of ſuch Hereſies and Blaſphemies, and indeed thoſe that do pretend to prove us Guilty in that kind, generally Quote ſome ancient Writings of our Friends, and alledge, although with a deſign againſt us, that we are changed from what we formerly held,</q> and therefore I refer to that noted Treatiſe, as <hi>G. K.</hi> calls it, <q rend="inline">writ by <hi>John Crook,</hi> called <hi>Truth's Principles</hi> (lately reprinted) and with which my Doctrine, ſaid <hi>G. K,</hi> in all particular doth well agree.</q>
+            </p>
+            <p>But, if like the <hi>Weather-Cock,</hi> he is ſince turn'd, conſider, as that, he may again.</p>
+            <trailer>FINIS.</trailer>
+            <pb facs="tcp:137249:16"/>
+         </div>
+      </body>
+   </text>
+</TEI>
